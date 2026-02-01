@@ -1,4 +1,4 @@
-# Void Fragments Hub
+# Void Fragments
 
 A catalog of **Void Fragments**: isolated capabilities extracted from **Void Crystal** and released as independent building blocks.
 
